@@ -1,0 +1,21 @@
+Data Preparation In Power BI.
+
+1. Clean data.
+ i) No Missing Value
+ ii) No Typos Error.
+ iii) No duplicate Entries
+ iv) No Irrelavant Data.
+ v) Outliers Sould be treated carefully.
+ vi) Columns should have correct data type.
+ vii) Column and table name shourt be short and descriptive
+
+2. Data Preview feature in Power Query.
+3. Column Distribution
+4. Column Quality 
+5. Column Profile
+
+1. Format Option in Transformation Ribbon
+2. Format, Split, extract and parse.
+3. Trim Column transformations should always be applied to the text columns in your dataset.
+
+4. 
